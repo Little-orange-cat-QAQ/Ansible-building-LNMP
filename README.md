@@ -1,2 +1,1 @@
-# Ansible-building-LNMP
-Building LNMP environment with ansible tool
+Building LNMP environment with shell
